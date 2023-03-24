@@ -1,11 +1,8 @@
-let a = prompt("nhập a:");
-let a1=parseInt(a);
-let b= prompt("nhập b:");
-let b1=parseInt(b);
-let c= prompt("nhập c:");
-let c1= parseInt(c);
-if (a < b + c && b < a + c && c < a + b) {
-    if (a == b || a == c || c == b) {
+let a = parseInt(prompt("nhập a:"));
+let b= parseInt(prompt("nhập b:"));
+let c= parseInt(prompt("nhập c:"));
+if (a< b+ c && b < a + c && c < a + b) {
+    if (a1== b || a == c || c == b) {
       document.write("tam giac can:");
     } else if (
       a * a == b * b + c * c ||

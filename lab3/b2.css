@@ -28,7 +28,7 @@ body{
     
 }
 .item:hover{
-    background-color: azure;
+    background-color: rosybrown;
     cursor: pointer;
 
 }

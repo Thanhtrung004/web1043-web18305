@@ -1,12 +1,9 @@
 // Nhạp a 
-let a = prompt ("Mời nhập a:");
-let a1= parseInt(a);
+let a = parseInt(prompt ("Mời nhập a:")) ;
 // nhập b
-let b = prompt (" Mời nhập b :");
-let b1= parseInt(b);
+let b = parseInt(prompt (" Mời nhập b :")) ;
 // nhập c
-let c = prompt("Mời nhạp c:");
-let c1= parseInt(c);
+let c = parseInt(prompt("Mời nhạp c:"));
 // Tính phương trình bậc 2
 if (a == 0) {
     if (b == 0) {
