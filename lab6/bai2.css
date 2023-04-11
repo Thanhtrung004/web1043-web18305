@@ -1,0 +1,13 @@
+img {
+    width: 50%;
+    height: 70%;
+    object-fit: cover;
+    border-radius: 20px;
+    transform: translateY(11%);
+    transition: .3s linear;
+}
+
+.main {
+    max-width: 1000px;
+    margin: 25px auto;
+}
