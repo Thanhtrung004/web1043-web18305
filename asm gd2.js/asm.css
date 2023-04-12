@@ -177,7 +177,7 @@ html{
     margin-top:17px;
     border-radius: 15px;
 }
-#list-products .item img:hover{
+#list-products .item img:hove{
     transform: scale(1.2);
 }
 
