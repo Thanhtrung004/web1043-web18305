@@ -4,12 +4,14 @@
     padding: 0;
     font-family: 'poppins',sans-serif;
 }
+
 body{
+    
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:#fd1037;
+    background:white;
     transition: .5s;
 }
 body.active{
